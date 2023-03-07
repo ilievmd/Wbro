@@ -1,5 +1,5 @@
 ---
-title: 🏥|IlievMD
+title: 🏥 IlievMD
 enableToc: false
 ---
 
